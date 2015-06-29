@@ -1,0 +1,6 @@
+P:\DEV203x-Introduction-to-Bootstrap\Lab-1\MusicStore\bin\MusicStore.dll.config
+P:\DEV203x-Introduction-to-Bootstrap\Lab-1\MusicStore\bin\MusicStore.dll
+P:\DEV203x-Introduction-to-Bootstrap\Lab-1\MusicStore\bin\MusicStore.pdb
+P:\DEV203x-Introduction-to-Bootstrap\Lab-1\MusicStore\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+P:\DEV203x-Introduction-to-Bootstrap\Lab-1\MusicStore\obj\Debug\MusicStore.dll
+P:\DEV203x-Introduction-to-Bootstrap\Lab-1\MusicStore\obj\Debug\MusicStore.pdb
